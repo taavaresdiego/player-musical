@@ -31,7 +31,7 @@ Contribuições são bem-vindas! Se você deseja adicionar mais sons, melhorar o
 
 ## Autor
 
-Seu Nome - [Seu GitHub](https://github.com/seu-usuario)
+Diego Tavares 
 
 ## Licença
 

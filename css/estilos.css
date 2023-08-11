@@ -26,8 +26,9 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%, #cccccc 100%);
-  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
+  background: linear-gradient(to bottom, #eeeeee2d 0%, #cccccc42 100%);
+
+  box-shadow: 6px 8px 0 6px #666666ac, 10px 10px 10px #000000e8;
   border-radius: 30px;
   display: grid;
   gap: 10px;
@@ -42,7 +43,7 @@ h1 {
   color: var(--vermelha);
   cursor: pointer;
   height: 120px;
-  font-size: 20px;
+  font-size: 17px;
   font-weight: bold;
   line-height: 120px;
   text-align: center;
